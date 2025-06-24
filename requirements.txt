@@ -1,0 +1,7 @@
+scapy==2.5.0
+flask==2.3.3
+flask-socketio==5.3.6
+pandas==2.1.0
+plotly==5.17.0
+dash==2.13.0
+colorama==0.4.6
